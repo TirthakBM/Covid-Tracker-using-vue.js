@@ -1,4 +1,7 @@
-# covidtracker
+covidtracker
+
+# ![Screenshot 2022-07-21 161039](https://user-images.githubusercontent.com/97222016/180195677-72174aea-b39a-4917-8abd-40100561fb64.png)
+covidtracker
 
 ## Project setup
 ```
